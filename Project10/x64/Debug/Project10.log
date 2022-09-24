@@ -1,0 +1,3 @@
+﻿  graph.cpp
+C:\Users\kosty\source\repos\Project10\Project10\graph.cpp(337): warning C4715: graph::comp_check2: значение возвращается не при всех путях выполнения
+  Project10.vcxproj -> C:\Users\kosty\source\repos\Project10\x64\Debug\Project10.exe
